@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="@drawable/background"
+    tools:context="liveblood.hackathon.com.liveblood.DonorConfirmation">
+
+    <TextView android:text="Donor Confirmation" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="70px"
+        android:id="@+id/textView"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your blood is immediately required.\nAre you available for blood donation?"
+        android:id="@+id/textView2"
+        android:textSize="20dp"
+        android:layout_marginTop="67dp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/black" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Accept"
+            android:id="@+id/buttonAccept"
+            android:textSize="35px"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/buttonDecline"
+            android:layout_toStartOf="@+id/buttonDecline"
+            android:layout_marginRight="44dp"
+            android:layout_marginEnd="44dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Decline"
+            android:id="@+id/buttonDecline"
+            android:textSize="35px"
+            android:layout_marginRight="63dp"
+            android:layout_marginEnd="63dp"
+            android:layout_alignTop="@+id/buttonAccept"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+
+</RelativeLayout>

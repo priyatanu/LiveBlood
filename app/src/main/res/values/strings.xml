@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LiveBlood</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_donor_info">DonorInfo</string>
+    <string name="title_activity_recepient_info">RecepientInfo</string>
+    <string name="title_activity_donors_list">DonorsList</string>
+    <string name="title_activity_donor_confirmation">DonorConfirmation</string>
+    <string name="title_activity_notification_donor">NotificationDonor</string>
+</resources>

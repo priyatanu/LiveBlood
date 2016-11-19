@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\LiveBlood\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-0bb0540704196004630adfc9c9016d3bfb057bf3.jar" />
+    </item>
+    <item
+        jar="D:\LiveBlood\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\LiveBlood\app\build\intermediates\pre-dexed\debug\classes-ff506249c652af01cc9d54c71a5c5e9d80f67d95.jar" />
+    </item>
+    <item
+        jar="D:\LiveBlood\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\LiveBlood\app\build\intermediates\pre-dexed\debug\classes-911b0a7953171f06b36fd8e076af155976447138.jar" />
+    </item>
+    <item
+        jar="D:\LiveBlood\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\LiveBlood\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-482f029501fbfa81364327779d9dfae1cd56c38e.jar" />
+    </item>
+    <item
+        jar="C:\Users\483914\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\LiveBlood\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-10ea3b736f32bc4f1ef2ba7e44b09c294135f1e0.jar" />
+    </item>
+    <item
+        jar="D:\LiveBlood\app\libs\Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="D:\LiveBlood\app\build\intermediates\pre-dexed\debug\Parse-1.9.4-d26d26e4594036dac9eb455bce6cacefa65552f2.jar" />
+    </item>
+
+</items>
